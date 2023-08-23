@@ -3,7 +3,8 @@
 // import ClassAndStyleBindings from './components/ClassAndStyleBindings.vue'
 // import ConditionalRendering from './components/ConditionalRendering.vue'
 // import ListRendering from './components/ListRendering.vue'
-import EventHandling from './components/EventHandling.vue'
+// import EventHandling from './components/EventHandling.vue'
+import FormInputBindings from './components/FormInputBindings.vue'
 </script>
 
 <template>
@@ -12,7 +13,8 @@ import EventHandling from './components/EventHandling.vue'
     <!-- <h2>Class and Style Bindings</h2> -->
     <!-- <h2>Conditional Rendering</h2> -->
     <!-- <h2>List Rendering</h2> -->
-    <h2>Event Handling</h2>
+    <!-- <h2>Event Handling</h2> -->
+    <h2>Form Input Bindings</h2>
   </header>
 
   <main>
@@ -20,7 +22,8 @@ import EventHandling from './components/EventHandling.vue'
     <!-- <ClassAndStyleBindings /> -->
     <!-- <ConditionalRendering /> -->
     <!-- <ListRendering /> -->
-    <EventHandling />
+    <!-- <EventHandling /> -->
+    <FormInputBindings />
   </main>
 </template>
 
