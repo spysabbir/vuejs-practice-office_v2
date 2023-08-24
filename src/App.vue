@@ -4,7 +4,8 @@
 // import ConditionalRendering from './components/ConditionalRendering.vue'
 // import ListRendering from './components/ListRendering.vue'
 // import EventHandling from './components/EventHandling.vue'
-import FormInputBindings from './components/FormInputBindings.vue'
+// import FormInputBindings from './components/FormInputBindings.vue'
+import Watchers from './components/Watchers.vue'
 </script>
 
 <template>
@@ -14,7 +15,8 @@ import FormInputBindings from './components/FormInputBindings.vue'
     <!-- <h2>Conditional Rendering</h2> -->
     <!-- <h2>List Rendering</h2> -->
     <!-- <h2>Event Handling</h2> -->
-    <h2>Form Input Bindings</h2>
+    <!-- <h2>Form Input Bindings</h2> -->
+    <h2>Watchers</h2>
   </header>
 
   <main>
@@ -23,7 +25,8 @@ import FormInputBindings from './components/FormInputBindings.vue'
     <!-- <ConditionalRendering /> -->
     <!-- <ListRendering /> -->
     <!-- <EventHandling /> -->
-    <FormInputBindings />
+    <!-- <FormInputBindings /> -->
+    <Watchers />
   </main>
 </template>
 
